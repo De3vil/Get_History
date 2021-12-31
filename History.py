@@ -14,6 +14,7 @@ banner = """\033[1;33;40m
 ██║  ██║██║███████║   ██║   ╚██████╔╝██║  ██║   ██║   
 ╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝   By: mido-de3vil \033[0m 1;33;40m 
 """
+print (banner)
 email = input("\033[1;37;40m email (mega account) :- ")
 password = input("\033[1;37;40m password (mega password) :- ")
 def reg_windows():
