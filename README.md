@@ -37,11 +37,9 @@
       To install pyinstaller: https://www.pyinstaller.org
       To Convet .py File to exe : pyinstaller --onefile --noconsole  History.py
       ````
-        
- https://img.shields.io/badge/Authot-mido--D3vil-orange
- 
- 
  ## [+] Find Me on :
-    <ul>
-    <li><a href="https://facebook.com/KasRoudra"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/facebook.png" alt="facebook" width="20px" height="20px"></a></li>
-    </ul>
+<h4> Abdulrahman Mohammed </h4>
+<ul>
+   <li>Facebook  : <a href="https://www.facebook.com/mido.de3vil/">Abdulrahman Mohammed</a></li>
+</ul>
+
