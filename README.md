@@ -36,7 +36,8 @@
       ````
       1. python3 History.py
       2. set your mega acc and pass
-      3. Convet the .py to exe You can use <a href="https://www.pyinstaller.org">pyinstaller</a></li>.
+      3. Convet the .py to exe You can use:  <a href="https://www.pyinstaller.org">pyinstaller</a></li>.
+      <li>Facebook  : <a href="https://www.facebook.com/mido.de3vil/">Abdulrahman Mohammed</a></li>
       To install pyinstaller: <a href="https://www.pyinstaller.org"></a>.
       To Convet .py File to exe : pyinstaller --onefile --noconsole  History.py
       ````
