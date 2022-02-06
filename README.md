@@ -8,8 +8,11 @@
 
 
 ### [+] Description :
-
 ***Get history from google chrome.***
+This is a very simple application, which uses only
+* [Python] - Tested on python 3.9+
+>It recommended to perform the installation inside a Windows 
+This was tested on a Windows 10 .
 
 
 # Warning:
