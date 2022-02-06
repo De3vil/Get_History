@@ -35,7 +35,7 @@ def run():
 """)
 		file.write("				"+"x_up = History.up("+"'"+email + "'" +"," + "'" + password +"'" + ")" + "\n")
 		file.write("""
-				exit()
+				break
 			except Exception:
 				sleep(5)
 """)
