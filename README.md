@@ -28,7 +28,7 @@
 
 # Installation:
     ````
-    1. git clone https://github.com/De3vil/Get_History
+    1. git clone https://github.com/De3vil/Get_History.git
     2. cd Get_History
     3. pip install -r requirements.txt
     ````
